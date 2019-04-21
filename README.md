@@ -1,4 +1,4 @@
-# DAF3D
+# Deep Attentive Features for Prostate Segmentation in 3D Transrectal Ultrasound. 
 This repository is the implementation for the DAF3D by Haoran Dou in Shenzhen University  
 
 Deep Attentive Features for Prostate Segmentation in 3D Transrectal Ultrasound.   
