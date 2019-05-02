@@ -29,11 +29,13 @@ metric results
 | Recall    | 0.8486 | 0.8764   | 0.9055 |
   
 ## Citation  
-  
-`@article{wang2019deep,  
+If this work is helpful for you, please cite our paper as follow:   
+```
+@article{wang2019deep,  
   title={Deep Attentive Features for Prostate Segmentation in 3D Transrectal Ultrasound.},  
   author={Wang, Y and Dou, H and Hu, X and Zhu, L and Yang, X and Xu, M and Qin, J and Heng, PA and Wang, T and Ni, D},  
   journal={IEEE transactions on medical imaging},  
   year={2019}  
-}`   
+}
+```   
 # Code is Coming Soon
