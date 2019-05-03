@@ -13,6 +13,13 @@ This work depends on the following libraries:
 Pytorch == 0.4.0  
 Python == 3.6  
 
+### Train and Validate
+Run  
+```
+python Train.py
+```
+You can rewrite the DataOprate.py to train your own data.
+
 ## Result
 One example to illustrate the effectiveness of the proposed attention module for the feature refinement.  
 ![result](img/attentionresult.png)    
@@ -37,5 +44,4 @@ If this work is helpful for you, please cite our paper as follow:
   journal={IEEE transactions on medical imaging},  
   year={2019}  
 }
-```   
-# Code is Coming Soon
+```
