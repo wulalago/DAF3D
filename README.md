@@ -38,10 +38,14 @@ metric results
 ## Citation  
 If this work is helpful for you, please cite our paper as follow:   
 ```
-@article{wang2019deep,  
-  title={Deep Attentive Features for Prostate Segmentation in 3D Transrectal Ultrasound.},  
-  author={Wang, Y and Dou, H and Hu, X and Zhu, L and Yang, X and Xu, M and Qin, J and Heng, PA and Wang, T and Ni, D},  
-  journal={IEEE transactions on medical imaging},  
-  year={2019}  
+@article{wang2019deep,
+  title={Deep attentive features for prostate segmentation in 3d transrectal ultrasound},
+  author={Wang, Yi and Dou, Haoran and Hu, Xiaowei and Zhu, Lei and Yang, Xin and Xu, Ming and Qin, Jing and Heng, Pheng-Ann and Wang, Tianfu and Ni, Dong},
+  journal={IEEE transactions on medical imaging},
+  volume={38},
+  number={12},
+  pages={2768--2778},
+  year={2019},
+  publisher={IEEE}
 }
 ```
