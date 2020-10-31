@@ -38,7 +38,7 @@ metric results
 | Recall    | 0.8486 | 0.8764   | 0.9055 |
   
 ## Citation  
-If this work is helpful for you, please cite our paper as follow:   
+If this work is helpful for you, please cite our paper as follows:   
 ```
 @article{wang2019deep,
   title={Deep attentive features for prostate segmentation in 3d transrectal ultrasound},
