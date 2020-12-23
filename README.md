@@ -3,7 +3,7 @@ This repository is the implementation of the DAF3DNet for Prostate Segmentation 
 
 **Deep Attentive Features for Prostate Segmentation in 3D Transrectal Ultrasound.**   
 *Yi Wang, Haoran Dou, Xiaowei Hu, Lei Zhu, Xin Yang, Ming Xu, Jing Qin, Pheng-Ann Heng, Tianfu Wang, and Dong Ni.*     
-IEEE Transactions on Medical Imaging, 2019. [[Paper]](https://ieeexplore.ieee.org/document/8698868) [[ArXiv]](https://arxiv.org/abs/1907.01743)
+IEEE Transactions on Medical Imaging, 2019. [[Paper]](https://ieeexplore.ieee.org/document/8698868) [[arXiv]](https://arxiv.org/abs/1907.01743)
   
 ![framework](img/framework.png)  
 
